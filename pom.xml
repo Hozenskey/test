@@ -81,7 +81,7 @@
     <dependency>
       <groupId>org.mybatis</groupId>
       <artifactId>mybatis</artifactId>
-      <version>${mybatis.version}</version>
+
     </dependency>
     <!-- mybatis/spring包 -->
     <dependency>
